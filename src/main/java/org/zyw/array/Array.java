@@ -1,7 +1,7 @@
 package org.zyw.array;
 
 /**
- * @Description TODO
+ * @Description 封装数组类
  * @Author zouyaowen
  * @Date 2019/7/7 1:03
  */
